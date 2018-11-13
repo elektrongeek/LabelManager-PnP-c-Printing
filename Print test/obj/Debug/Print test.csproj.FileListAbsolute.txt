@@ -1,0 +1,17 @@
+c:\users\jlinares\source\repos\Print test\Print test\bin\Debug\Print test.exe.config
+c:\users\jlinares\source\repos\Print test\Print test\bin\Debug\Print test.exe
+c:\users\jlinares\source\repos\Print test\Print test\bin\Debug\Print test.pdb
+c:\users\jlinares\source\repos\Print test\Print test\bin\Debug\DYMO.Label.Framework.dll
+c:\users\jlinares\source\repos\Print test\Print test\bin\Debug\DYMO.DLS.Runtime.dll
+c:\users\jlinares\source\repos\Print test\Print test\bin\Debug\DYMO.Common.dll
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print test.csprojResolveAssemblyReference.cache
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print_test.Form1.resources
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print_test.Properties.Resources.resources
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print test.csproj.GenerateResource.Cache
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print test.csproj.CoreCompileInputs.cache
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print test.exe
+c:\users\jlinares\source\repos\Print test\Print test\obj\Debug\Print test.pdb
+C:\Users\JLINARES\source\repos\Print test\Print test\bin\Debug\Label.label
+C:\Users\JLINARES\source\repos\Print test\Print test\bin\Debug\MetroFramework.Design.dll
+C:\Users\JLINARES\source\repos\Print test\Print test\bin\Debug\MetroFramework.dll
+C:\Users\JLINARES\source\repos\Print test\Print test\bin\Debug\MetroFramework.Fonts.dll
